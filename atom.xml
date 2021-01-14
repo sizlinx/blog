@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sizlinx.tk</id>
+    <id>https://sizlinx.tk/blog</id>
     <title>sizlinx</title>
     <subtitle></subtitle>
-    <icon>https://sizlinx.tk/images/favicon.ico</icon>
-    <link href="https://sizlinx.tk" />
+    <icon>https://sizlinx.tk/blog/images/favicon.ico</icon>
+    <link href="https://sizlinx.tk/blog" />
     <author>
       <name>sizlinx</name>
     </author>
@@ -14,9 +14,9 @@
     <category term=" blog" />
     <category term=" shoka" />
     <entry>
-        <id>https://sizlinx.tk/GRADUATE/</id>
+        <id>https://sizlinx.tk/blog/GRADUATE/</id>
         <title>GRADUATE</title>
-        <link rel="alternate" href="https://sizlinx.tk/GRADUATE/"/>
+        <link rel="alternate" href="https://sizlinx.tk/blog/GRADUATE/"/>
         <content type="html">&lt;p&gt;2021-01-13 초등학교 졸업!&lt;/p&gt;
 &lt;p&gt;할것:&lt;br /&gt;
 책읽기&lt;br /&gt;
@@ -28,9 +28,9 @@ etc&lt;/p&gt;
         <updated>2021-01-13T16:54:08.000Z</updated>
     </entry>
     <entry>
-        <id>https://sizlinx.tk/English-Monthly-Evaluation/</id>
+        <id>https://sizlinx.tk/blog/English-Monthly-Evaluation/</id>
         <title>English-Monthly-Evaluation</title>
-        <link rel="alternate" href="https://sizlinx.tk/English-Monthly-Evaluation/"/>
+        <link rel="alternate" href="https://sizlinx.tk/blog/English-Monthly-Evaluation/"/>
         <content type="html">&lt;h1 id=&#34;범위&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#범위&#34;&gt;#&lt;/a&gt; 범위&lt;/h1&gt;
 &lt;p&gt;리딩&lt;/p&gt;
 &lt;ul&gt;
@@ -575,14 +575,14 @@ etc&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;문법 정리 끝&lt;/p&gt;
 </content>
-        <category term="English" scheme="https://sizlinx.tk/categories/English/" />
-        <category term="first" scheme="https://sizlinx.tk/tags/first/" />
+        <category term="English" scheme="https://sizlinx.tk/blog/categories/English/" />
+        <category term="first" scheme="https://sizlinx.tk/blog/tags/first/" />
         <updated>2021-01-11T13:10:35.000Z</updated>
     </entry>
     <entry>
-        <id>https://sizlinx.tk/Arch-install/</id>
+        <id>https://sizlinx.tk/blog/Arch-install/</id>
         <title>Arch-install</title>
-        <link rel="alternate" href="https://sizlinx.tk/Arch-install/"/>
+        <link rel="alternate" href="https://sizlinx.tk/blog/Arch-install/"/>
         <content type="html">&lt;p&gt;나혼자 보려고 만든 아치 설치 가이드&lt;/p&gt;
 &lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 
@@ -698,14 +698,14 @@ umount -R /mnt
 reboot&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;설치 끝&lt;/p&gt;
 </content>
-        <category term="Linux" scheme="https://sizlinx.tk/categories/Linux/" />
-        <category term="Arch install" scheme="https://sizlinx.tk/tags/Arch-install/" />
+        <category term="Linux" scheme="https://sizlinx.tk/blog/categories/Linux/" />
+        <category term="Arch install" scheme="https://sizlinx.tk/blog/tags/Arch-install/" />
         <updated>2021-01-08T22:51:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://sizlinx.tk/add-cplayer/</id>
+        <id>https://sizlinx.tk/blog/add-cplayer/</id>
         <title>add-cplayer</title>
-        <link rel="alternate" href="https://sizlinx.tk/add-cplayer/"/>
+        <link rel="alternate" href="https://sizlinx.tk/blog/add-cplayer/"/>
         <content type="html">&lt;p&gt;cplayer 추가&lt;/p&gt;
 &lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;cplayer&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cplayer&#34;&gt;#&lt;/a&gt; Cplayer&lt;/h2&gt;
@@ -757,19 +757,19 @@ reboot&lt;/code&gt;&lt;/pre&gt;
     &lt;/script&gt;
 	&lt;/p&gt;
 </content>
-        <category term="music-player" scheme="https://sizlinx.tk/tags/music-player/" />
+        <category term="music-player" scheme="https://sizlinx.tk/blog/tags/music-player/" />
         <updated>2021-01-08T03:23:55.000Z</updated>
     </entry>
     <entry>
-        <id>https://sizlinx.tk/helloworld/</id>
+        <id>https://sizlinx.tk/blog/helloworld/</id>
         <title>helloworld</title>
-        <link rel="alternate" href="https://sizlinx.tk/helloworld/"/>
+        <link rel="alternate" href="https://sizlinx.tk/blog/helloworld/"/>
         <content type="html">&lt;p&gt;hexo 블로그 개설!&lt;/p&gt;
 &lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;nexmoe 테마가 중국어라서 좀 바꿀거다.&lt;/p&gt;
 </content>
-        <category term="잡담" scheme="https://sizlinx.tk/categories/%EC%9E%A1%EB%8B%B4/" />
-        <category term="first" scheme="https://sizlinx.tk/tags/first/" />
+        <category term="잡담" scheme="https://sizlinx.tk/blog/categories/%EC%9E%A1%EB%8B%B4/" />
+        <category term="first" scheme="https://sizlinx.tk/blog/tags/first/" />
         <updated>2021-01-07T13:06:29.000Z</updated>
     </entry>
 </feed>

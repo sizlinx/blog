@@ -3,8 +3,8 @@
     <channel>
         <title>sizlinx</title>
         <subtitle></subtitle>
-        <icon>https://sizlinx.tk/images/favicon.ico</icon>
-        <link>https://sizlinx.tk</link>
+        <icon>https://sizlinx.tk/blog/images/favicon.ico</icon>
+        <link>https://sizlinx.tk/blog</link>
         <author>
           <name>sizlinx</name>
         </author>
@@ -17,9 +17,9 @@
         <category term=" blog" />
         <category term=" shoka" />
         <item>
-            <guid isPermalink="true">https://sizlinx.tk/GRADUATE/</guid>
+            <guid isPermalink="true">https://sizlinx.tk/blog/GRADUATE/</guid>
             <title>GRADUATE</title>
-            <link>https://sizlinx.tk/GRADUATE/</link>
+            <link>https://sizlinx.tk/blog/GRADUATE/</link>
             <pubDate>Thu, 14 Jan 2021 01:54:08 +0900</pubDate>
             <description><![CDATA[ &lt;p&gt;2021-01-13 초등학교 졸업!&lt;/p&gt;
 &lt;p&gt;할것:&lt;br /&gt;
@@ -31,11 +31,11 @@ etc&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sizlinx.tk/English-Monthly-Evaluation/</guid>
+            <guid isPermalink="true">https://sizlinx.tk/blog/English-Monthly-Evaluation/</guid>
             <title>English-Monthly-Evaluation</title>
-            <link>https://sizlinx.tk/English-Monthly-Evaluation/</link>
-            <category term="English" scheme="https://sizlinx.tk/categories/English/" />
-            <category term="first" scheme="https://sizlinx.tk/tags/first/" />
+            <link>https://sizlinx.tk/blog/English-Monthly-Evaluation/</link>
+            <category term="English" scheme="https://sizlinx.tk/blog/categories/English/" />
+            <category term="first" scheme="https://sizlinx.tk/blog/tags/first/" />
             <pubDate>Mon, 11 Jan 2021 22:10:35 +0900</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;범위&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#범위&#34;&gt;#&lt;/a&gt; 범위&lt;/h1&gt;
 &lt;p&gt;리딩&lt;/p&gt;
@@ -583,11 +583,11 @@ etc&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sizlinx.tk/Arch-install/</guid>
+            <guid isPermalink="true">https://sizlinx.tk/blog/Arch-install/</guid>
             <title>Arch-install</title>
-            <link>https://sizlinx.tk/Arch-install/</link>
-            <category term="Linux" scheme="https://sizlinx.tk/categories/Linux/" />
-            <category term="Arch install" scheme="https://sizlinx.tk/tags/Arch-install/" />
+            <link>https://sizlinx.tk/blog/Arch-install/</link>
+            <category term="Linux" scheme="https://sizlinx.tk/blog/categories/Linux/" />
+            <category term="Arch install" scheme="https://sizlinx.tk/blog/tags/Arch-install/" />
             <pubDate>Sat, 09 Jan 2021 07:51:17 +0900</pubDate>
             <description><![CDATA[ &lt;p&gt;나혼자 보려고 만든 아치 설치 가이드&lt;/p&gt;
 &lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
@@ -706,10 +706,10 @@ reboot&lt;/code&gt;&lt;/pre&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sizlinx.tk/add-cplayer/</guid>
+            <guid isPermalink="true">https://sizlinx.tk/blog/add-cplayer/</guid>
             <title>add-cplayer</title>
-            <link>https://sizlinx.tk/add-cplayer/</link>
-            <category term="music-player" scheme="https://sizlinx.tk/tags/music-player/" />
+            <link>https://sizlinx.tk/blog/add-cplayer/</link>
+            <category term="music-player" scheme="https://sizlinx.tk/blog/tags/music-player/" />
             <pubDate>Fri, 08 Jan 2021 12:23:55 +0900</pubDate>
             <description><![CDATA[ &lt;p&gt;cplayer 추가&lt;/p&gt;
 &lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -764,11 +764,11 @@ reboot&lt;/code&gt;&lt;/pre&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sizlinx.tk/helloworld/</guid>
+            <guid isPermalink="true">https://sizlinx.tk/blog/helloworld/</guid>
             <title>helloworld</title>
-            <link>https://sizlinx.tk/helloworld/</link>
-            <category term="잡담" scheme="https://sizlinx.tk/categories/%EC%9E%A1%EB%8B%B4/" />
-            <category term="first" scheme="https://sizlinx.tk/tags/first/" />
+            <link>https://sizlinx.tk/blog/helloworld/</link>
+            <category term="잡담" scheme="https://sizlinx.tk/blog/categories/%EC%9E%A1%EB%8B%B4/" />
+            <category term="first" scheme="https://sizlinx.tk/blog/tags/first/" />
             <pubDate>Thu, 07 Jan 2021 22:06:29 +0900</pubDate>
             <description><![CDATA[ &lt;p&gt;hexo 블로그 개설!&lt;/p&gt;
 &lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
